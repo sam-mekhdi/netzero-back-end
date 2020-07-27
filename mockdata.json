@@ -1,0 +1,40 @@
+{
+    "Transactions": [
+        {
+            "studentNumber": "1",
+            "totalFootPrint": "10",
+            "transactions": [
+                          
+            ]           
+        },
+        {
+            "studentNumber": "2",
+            "totalFootPrint": "10",
+            "transactions": [
+                          
+            ]           
+        },
+        {
+            "studentNumber": "3",
+            "totalFootPrint": "11",
+            "transactions": [
+                                                      
+            ]           
+        },
+        {
+            "studentNumber": "7",
+            "totalFootPrint": "10",
+            "transactions": [
+                            
+            ]           
+        },
+        {
+            "studentNumber": "4",
+            "totalFootPrint": "10",
+            "transactions": [
+                            
+            ]           
+        }
+        
+    ]
+}

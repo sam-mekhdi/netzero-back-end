@@ -1,0 +1,6 @@
+studentNumber,transactionID,itemName,location,quantity,date,time
+1,100.00,Coffee,Lazy,2.00,1/1/2020,12:00:00 AM
+2,102.00,Egg,West,1.00,1/1/2020,12:00:00 AM
+3,103.00,Cheese,West,3.00,1/2/2020,12:00:00 AM
+2,101.00,Coffee,West,1.00,1/1/2020,15:00:00 AM
+4,104.00,Bread,West,1.00,1/2/2020,12:00:00 AM

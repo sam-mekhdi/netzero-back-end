@@ -1,0 +1,59 @@
+{
+    "food": [
+        {
+            "itemName": "cheeseburger",
+            "totalFootPrint": "10",
+            "ingredients": [
+                {
+                    "ingredientName": "bread",
+                    "itemFootprint": "2"    
+                },
+                {
+                    "ingredientName": "cheese",
+                    "itemFootprint": "2"
+                },
+                {
+                    "ingredientName": "meat",
+                    "itemFootprint": "6"  
+                }  
+            ]           
+        },
+        {
+            "itemName": "salad",
+            "totalFootPrint": "4",
+            "ingredients": [
+                {
+                    "ingredientName": "lettuce",
+                    "itemFootprint": "1"    
+                },
+                {
+                    "ingredientName": "tomato",
+                    "itemFootprint": "2"
+                },
+                {
+                    "ingredientName": "cucumber",
+                    "itemFootprint": "1"  
+                }              
+            ]           
+        },
+        {
+            "itemName": "pancake",
+            "totalFootPrint": "9",
+            "ingredients": [
+                {
+                    "ingredientName": "flour",
+                    "itemFootprint": "2"    
+                },
+                {
+                    "ingredientName": "egg",
+                    "itemFootprint": "3"
+                },
+                {
+                    "ingredientName": "milk",
+                    "itemFootprint": "4"  
+                }              
+            ]           
+        }
+        
+    ]
+}
